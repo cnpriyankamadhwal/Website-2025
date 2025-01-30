@@ -1,0 +1,57 @@
+/* Poppins - Google Font */
+
+@import url("https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic");
+
+
+/* Global */
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Poppins', sans-serif;
+}
+
+.social-links .links{
+    text-align: center;
+    padding: 20px 0;
+}
+
+.github{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.heading{
+    margin: 20px 200px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.image img{
+    height: 310px;
+     width: 290px;
+}
+
+.left{
+    margin: 20px 200px;
+    width: 600px;
+    border-right: 3px solid green;
+    padding-right: 50px;
+}
+
+.bx{
+    color: red;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.bx:hover{
+    color: black;
+}
+
+.line-1{
+    border-top: 0.5px solid #333;
+    margin: 20px 200px;
+}
+
